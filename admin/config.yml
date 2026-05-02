@@ -1,4 +1,6 @@
 backend:
+site_url: https://elrincondelalectura.netlify.app
+  display_url: https://elrincondelalectura.netlify.app
   name: github
   repo: TU-USUARIO-GITHUB/elrincondelalectura
   branch: main
